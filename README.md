@@ -1,12 +1,11 @@
-<h1 align="center"><strong>Contextual Diet ChatBot with Recommendation System</strong></h1>
-
-<p align="center">
-  <img src="Interface.PNG" alt="Interface Screenshot">
-</p>
-
-# LoRA-SD-Text2Image-ChildrenBooks-ChatGPT-Gradio
+<h1 align="center"><strong>LoRA-SD-Text2Image-ChildrenBooks-ChatGPT-Gradio</strong></h1>
 
 Welcome to the **LoRA-SD-Text2Image-ChildrenBooks-ChatGPT-Gradio** repository. This project aims to generate illustrations for each page of children's books using LoRA (Low-Rank Adaptation), Stable Diffusion, and a ChatGPT template. The project leverages Gradio for an interactive interface, allowing users to input prompts and customize image generation parameters.
+
+<p align="center">
+  <img src="Interface.PNG" alt="Interface Screenshot" width="60%">
+</p>
+
 
 ## Repository Structure
 
